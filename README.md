@@ -1,4 +1,10 @@
-## ![](https://github.com/images/mona-whisper.gif)Hi there 👋
+
+## ![](https://github.com/images/mona-whisper.gif) Hi there 👋 ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</div>
+
 
 ## 🌱 我正在使用 / 学习 ...
 
@@ -28,6 +34,11 @@
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&style=Flat-square)
+
+
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</div>
 
 
 <!--
