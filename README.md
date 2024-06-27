@@ -50,15 +50,15 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 -->
 
-## 📈 统计数据 ...
+## 📈 数据统计 ...
 <table>
   <tr align="center">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=whoDDD&theme=tokyonight&show_icons=true" alt="Anurag's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=whoDDD&theme=transparent&show_icons=true&locale=cn&hide_border=true" alt="Anurag's GitHub stats" />
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoDDD&layout=compact" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoDDD&theme=transparent&layout=compact&locale=cn&hide_border=true" alt="Top Langs" />
       </a>
     </td>
   </tr>
