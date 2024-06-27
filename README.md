@@ -54,7 +54,8 @@
 <table>
   <tr align="center">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=whoDDD&theme=transparent&show_icons=true&locale=cn&hide_border=true" alt="Anurag's GitHub stats" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.app/?username=whoDDD&theme=transparent&show_icons=true&locale=cn&hide_border=true&hide=stars,prs,issues" alt="Anurag's GitHub stats" /> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=whoDDD&theme=transparent&hide_border=true&locale=zh_Hans" />
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -64,7 +65,7 @@
   </tr>
     <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoDDD&theme=github-compact" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoDDD&theme=tokyo-night&hide_border=true" />
     </td>
   </tr>
 </table>
