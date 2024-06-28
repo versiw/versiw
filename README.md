@@ -1,4 +1,6 @@
 
+
+
 ## ![](https://github.com/images/mona-whisper.gif) Hi there 👋 ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
 
 <div>
@@ -6,7 +8,7 @@
 </div>
 
 
-## 🌱 我正在使用 / 学习 ...
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" height="35" /> 正在使用 / 学习 ...
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
@@ -61,7 +63,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 -->
 
-## 📈 数据统计 ...
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png"  width="35" height="35" /> 数据统计 ...
 <table>
   <tr align="center">
     <td>
