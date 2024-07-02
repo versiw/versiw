@@ -8,7 +8,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="35" height="35" /> 正在使用 / 学习 ...
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" height="35" /> I’m currently using / learning ...
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
@@ -63,16 +63,18 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png"  width="35" height="35" /> 数据统计 ...
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png"  width="35" height="35" /> Data Statistics ...
 <table>
   <tr align="center">
     <td>
       <!-- <img src="https://github-readme-streak-stats.herokuapp.app/?username=versiw&theme=transparent&show_icons=true&locale=cn&hide_border=true&hide=stars,prs,issues" alt="Anurag's GitHub stats" /> -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=versiw&theme=transparent&hide_border=true&locale=zh_Hans" />
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=versiw&theme=transparent&hide_border=true&locale=zh_Hans" /> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=versiw&theme=transparent&hide_border=true" />
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=versiw&theme=transparent&layout=compact&locale=cn&hide_border=true" alt="Top Langs" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=versiw&theme=transparent&layout=compact&locale=cn&hide_border=true" alt="Top Langs" /> -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=versiw&theme=transparent&layout=compact&hide_border=true" alt="Top Langs" />
       </a>
     </td>
   </tr>
