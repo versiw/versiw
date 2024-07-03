@@ -1,7 +1,14 @@
 
 
 
-## ![](https://github.com/images/mona-whisper.gif) Hi there 👋 ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+![](https://github.com/images/mona-whisper.gif) ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+
+ ## <a href="https://github.com/versiw"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there
+
+Welcome to my GitHub repository ! 
+
+I’m a software development engineer currently working on developing software related to the application of commercial cryptography technology.
+
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
