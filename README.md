@@ -1,10 +1,12 @@
 
 
 
-![](https://github.com/images/mona-whisper.gif) ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
-![](https://github.com/images/mona-whisper.gif) ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
-![](https://github.com/images/mona-whisper.gif) ![](https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
-![](https://github.com/images/mona-whisper.gif)
+![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/mona-whisper.gif) ![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/mona-whisper.gif) ![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/mona-whisper.gif) ![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif)
+![](https://gcore.jsdelivr.net/gh/versiw/FavPic/images/mona-whisper.gif)
+
+
 
  ## <a href="https://github.com/versiw"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there
 
@@ -13,11 +15,13 @@ Welcome to my GitHub repository !
 I'm a software development engineer currently working in software front-end and back-end development and working towards becoming a full-stack engineer.
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+  <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35" height="35" /> I’m currently using / learning ...
+
+
+## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012805.png" width="35" height="35" /> I’m currently using / learning ...
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
@@ -49,7 +53,7 @@ I'm a software development engineer currently working in software front-end and 
 
 
 <div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+  <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
 </div>
 
 
@@ -73,7 +77,7 @@ I'm a software development engineer currently working in software front-end and 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png"  width="35" height="35" /> Data Statistics ...
+## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012973.png"  width="35" height="35" /> Data Statistics ...
 <table>
   <tr align="center">
     <td>
