@@ -10,7 +10,7 @@
 
 Welcome to my GitHub repository ! 
 
-I’m a software development engineer currently working on commercial cryptographic application technology related software development.
+I'm a software development engineer currently working in software front-end and back-end development and working towards becoming a full-stack engineer.
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -43,6 +43,7 @@ I’m a software development engineer currently working on commercial cryptograp
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
 ![ESLint Badge](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat-square)
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
+![VitePress Badge](https://img.shields.io/badge/VitePress-5C73E7?logo=vitepress&logoColor=fff&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white&style=Flat-square)
 
