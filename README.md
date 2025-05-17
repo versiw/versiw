@@ -8,11 +8,11 @@
 
 
 
- ## <a href="https://github.com/versiw"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hi there
+ ## <a href="https://github.com/versiw"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> 我是 Versiw
 
-Welcome to my GitHub repository ! 
+欢迎来到我的 GitHub 仓库！
 
-I'm a software development engineer currently working in software front-end and back-end development and working towards becoming a full-stack engineer.
+我是一名 Web 开发工程师，目前从事软件前端和后端开发工作，并致力于成为一名全栈工程师。
 
 <div>
   <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
@@ -21,7 +21,7 @@ I'm a software development engineer currently working in software front-end and 
 
 
 
-## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012805.png" width="35" height="35" /> I’m currently using / learning ...
+## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012805.png" width="35" height="35" /> 我目前正在使用/学习 …
 
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
@@ -77,7 +77,7 @@ I'm a software development engineer currently working in software front-end and 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 -->
 
-## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012973.png"  width="35" height="35" /> Data Statistics ...
+## <img src="https://gcore.jsdelivr.net/gh/versiw/FavPic/images/202410212012973.png"  width="35" height="35" /> 仓库数据统计 …
 <table>
   <tr align="center">
     <td>
